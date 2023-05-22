@@ -3,8 +3,8 @@
 ## Proje Açıklaması
 
 HTML dosyasına dokunmadan JavaScript dosyasındaki içeriği kontrol ederek bir içerik yönetim sistemini taklit edeceksiniz. Bu proje, öğeleri seçmeye ve ardından DOM kullanarak HTML dosyasına dokunmadan bunları güncellemeye yönelik bir alıştırmadır.
-
-`src/index.html` sayfası ile `src/orijinal.html` sayfasını karşılaştırın ve `index.html` dosyasında nelerin eksik olduğunu görmeye çalışın. Amacımız `orijinal.html` sayfasının aynısını sadece JavaScript kullanarak gerçekleştirmek. Hedef ekran görüntüsünü şurada bulabilirsiniz: `tasarım-dosyası/sayfa.png`.
+.html` sayfası ile `src/orijinal.html` sayfasını karşılaştırın ve `index.html` dosyasında nelerin eksik olduğunu görmeye çalışın. Amacımız `orijinal.html` sayfasının aynısını sadece JavaScript kullanarak gerçekleştirmek. Hedef ekran görüntüsünü şurada bulabilirsiniz: `tasarım-dosyası/sayfa.png`.
+`src/index
 
 `src/index.js` sayfası içinde tanımlanan nesnede, istenen dizaynı yaratabilmek için gerekli olan tüm datalar mevcuttur. Bu nesneyi asla değiştirmeyin! 
 
